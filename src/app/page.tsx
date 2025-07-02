@@ -21,9 +21,9 @@ export default function Home() {
             I build AI doctors to serve places where no doctors can reach.
             Founder of <span className="text-white font-semibold">PrimeForce</span>,
             researcher in explainable AI for blood cancer diagnosis, and a dreamer
-            who once fixed remote-controlled cars in the Mekong Delta —
-            now building systems to reimagine global healthcare.
+            who once fixed remote-controlled cars in the Mekong Delta — now building systems to reimagine global healthcare.
           </p>
+
         </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
