@@ -15,7 +15,7 @@ export default function Home() {
 
         <div className="text-center sm:text-left">
           <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">
-            Hi, I'm Quang Liêm
+            Hi, I’m Quang Liêm
           </h1>
           <p className="mt-4 text-lg sm:text-xl max-w-2xl leading-relaxed text-gray-300">
             I build AI doctors to serve places where no doctors can reach.
@@ -23,7 +23,6 @@ export default function Home() {
             researcher in explainable AI for blood cancer diagnosis, and a dreamer
             who once fixed remote-controlled cars in the Mekong Delta — now building systems to reimagine global healthcare.
           </p>
-
         </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
